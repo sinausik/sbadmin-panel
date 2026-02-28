@@ -5,7 +5,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
             <i class="fas fa-table"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">KONI YK<sup>2</sup></div>
+        <div class="sidebar-brand-text mx-3">RCH CMS<sup>2</sup></div>
     </a>
 
     <!-- Divider -->
